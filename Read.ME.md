@@ -16,9 +16,11 @@ Ingredients (for 20 pieces):
 |Calori|Protein|Fat|Carbonhydrat|
 |------|--------|--|------------|
 |  149 |   2g   |8g|   18g      |
+|------|--------|--|------------|
 (for 100g):
 |Calori|Protein|Fat|Carbonhydrat|
 |  496 | 6,6g   |26,6g|  60g    |
+|------|--------|-----|---------|
 Steps:
 ---
 + First of all, preheat the oven to 180 santigrat degree (180 santigrat=350 fahrenheit) .After that,mix the flour, the baking soda and the salt in a mixture bowl.
