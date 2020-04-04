@@ -1,7 +1,7 @@
 # 175-fizik
 2. haftanın ödevleri burada bulunacak
 ---
-#Ailemin Beden Kitle İndeksi
+Ailemin Beden Kitle İndeksi
 ---
 |BKİ değeri |Durumu|
 |-----------|------|
@@ -12,6 +12,7 @@
 |35-44,99 |Sağlık açısından önemli|
 |45-49,99|Aşırı Şişman|
 |50- >50 |Ölümcül Şişman|
+---
 |Annem|Babam|Ablam|Ben|
 |-----|-----|-----|----|
 |23,44|23,99|19,49|18,66 |
