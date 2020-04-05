@@ -24,7 +24,7 @@ Ingredients (for 20 pieces):
 |-------|--------|--|------------|
 |  496  |  6,6g  |26,6g|  60g    |
 
-##Steps:
+Steps:
 ---
 + First of all, preheat the oven to 180 celcius degree (approx 180 celcius=350 fahrenheit). After that,mix the flour,the baking soda and the salt in a mixture bowl.
 + Secondly, stir up the butter, the sugar and the vanilla sugar in another bowl until mixture became foamy.
@@ -57,7 +57,7 @@ Parça Başına Düşen Besin Değeri (yaklaşık 30g):
 |------|-------|---|------------|
 |  496 | 6,6g  |26,6g|  60g     |
 
-Steps:
+##Steps:
 + İlk olarak, fırını 180 santigrat derecede (yaklaşık olarak 180 santigrat=350 fahrenheit) önden ısıtın. Daha sonra, unu, karbonatı ve tuzu bir karıştırma kabında karıştırın.
 + İkinci olarak, tereyağı, şekeri ve vanilya şekerini köpüklü bir kıvama gelene kadar ayrı bir kabta çırpın.
 + Üçüncüsü, yumurtaları tek tek ekleyerek iyice çırpın.
