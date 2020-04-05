@@ -32,6 +32,8 @@ Steps:
 + Then, mix the two mixture and add the chocolate drops slowly when they mixed completely.
 + Finally, scoop the dough onto the tray, leaving enough space between two cookies .Bake them into the preheated oven until golden (about 10-12 minutes).
 >tip: Cookies must be soft so chill off the cookies about 10 minutes before serve.
+[Here is the source](https://www.kitchenstories.com/en)
+![My Cookies]
 ---
 Çıtır Çikolatalı Kurabiye Tarifi:
 ---
@@ -57,7 +59,7 @@ Parça Başına Düşen Besin Değeri (yaklaşık 30g):
 |------|-------|---|------------|
 |  496 | 6,6g  |26,6g|  60g     |
 
-Steps:
+Adımlar:
 ---
 + İlk olarak, fırını 180 santigrat derecede (yaklaşık olarak 180 santigrat=350 fahrenheit) önden ısıtın. Daha sonra, unu, karbonatı ve tuzu bir karıştırma kabında karıştırın.
 + İkinci olarak, tereyağı, şekeri ve vanilya şekerini köpüklü bir kıvama gelene kadar ayrı bir kabta çırpın.
@@ -65,3 +67,5 @@ Steps:
 + Sonra, iki karışımı karıştrın ve  tamamen karışıca damla çikolatalarını yavaşça ekleyin.
 + Son olarak, kaşıkla hamuru iki kurabiye arasında yeterince boşluk bırakarak tepsiye yerleştirin. Altın rengi olana kadar önceden ısıtılmış fırında pişirin (yaklaşık olarak 10-12 dakika).
 > Püf Noktası: Kurabiyelerin yumuşak olması gerekir bu yüzden servis etmeden önce 10 dakika soğumaya bırakın.
+İşte [kaynak](https://www.kitchenstories.com/en)
+![Kurabiyem]
