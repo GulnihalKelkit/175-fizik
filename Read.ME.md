@@ -33,7 +33,8 @@ Steps:
 + Finally, scoop the dough onto the tray, leaving enough space between two cookies .Bake them into the preheated oven until golden (about 10-12 minutes).
 >tip: Cookies must be soft so chill off the cookies about 10 minutes before serve.
 [Here is the source](https://www.kitchenstories.com/en)
-![My Cookies]
+![My Cookies](https://tr.pinterest.com/pin/764626842972670424)
+>Not: I used hazelnut ınstead of chocolate drops because there weren't at home.
 ---
 Çıtır Çikolatalı Kurabiye Tarifi:
 ---
@@ -68,4 +69,5 @@ Adımlar:
 + Son olarak, kaşıkla hamuru iki kurabiye arasında yeterince boşluk bırakarak tepsiye yerleştirin. Altın rengi olana kadar önceden ısıtılmış fırında pişirin (yaklaşık olarak 10-12 dakika).
 > Püf Noktası: Kurabiyelerin yumuşak olması gerekir bu yüzden servis etmeden önce 10 dakika soğumaya bırakın.
 İşte [kaynak](https://www.kitchenstories.com/en)
-![Kurabiyem]
+![Kurabiyem](https://tr.pinterest.com/pin/764626842972670424)
+>Not: Evde damla çikolata kalmadığı için onon yerine fındık kullandım.
