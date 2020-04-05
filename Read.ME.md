@@ -57,7 +57,8 @@ Parça Başına Düşen Besin Değeri (yaklaşık 30g):
 |------|-------|---|------------|
 |  496 | 6,6g  |26,6g|  60g     |
 
-##Steps:
+Steps:
+---
 + İlk olarak, fırını 180 santigrat derecede (yaklaşık olarak 180 santigrat=350 fahrenheit) önden ısıtın. Daha sonra, unu, karbonatı ve tuzu bir karıştırma kabında karıştırın.
 + İkinci olarak, tereyağı, şekeri ve vanilya şekerini köpüklü bir kıvama gelene kadar ayrı bir kabta çırpın.
 + Üçüncüsü, yumurtaları tek tek ekleyerek iyice çırpın.
